@@ -7,12 +7,12 @@
 
 <p align="left">
 <h3 align="left">Connect with me</h3>
-<a href="https://linkedin.com/in/budioktaviyans" target="blank"><img align="center" src="https://user-images.githubusercontent.com/2031493/109814543-36eb6300-7c61-11eb-8b2e-a510701309e7.png" alt="budioktaviyans" height="50" width="50" /></a>
-<a href="https://instagram.com/budioktaviyans" target="blank"><img align="center" src="https://user-images.githubusercontent.com/2031493/109813457-f5a68380-7c5f-11eb-93e7-5ba13de0695e.png" alt="budioktaviyans" height="50" width="50" /></a>
-<a href="https://medium.com/@budioktaviyans" target="blank"><img align="center" src="https://user-images.githubusercontent.com/2031493/109813479-f9d2a100-7c5f-11eb-84bb-ea3a739ebc96.png" alt="@budioktaviyans" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/danial-bachtiar-2b347a18a" target="blank"><img align="center" src="https://user-images.githubusercontent.com/2031493/109814543-36eb6300-7c61-11eb-8b2e-a510701309e7.png" alt="danial-bachtiar-2b347a18a" height="50" width="50" /></a>
+<a href="https://instagram.com/drstore_ofc" target="blank"><img align="center" src="https://user-images.githubusercontent.com/2031493/109813457-f5a68380-7c5f-11eb-93e7-5ba13de0695e.png" alt="drstore_ofc" height="50" width="50" /></a>
+
 </p>
 
-##### Follow me on 👉🏻 [![Twitter](https://img.shields.io/twitter/follow/budioktaviyans?label=Follow&style=social)](https://twitter.com/budioktaviyans)
+<!-- ##### Follow me on 👉🏻 [![Twitter](https://img.shields.io/twitter/follow/budioktaviyans?label=Follow&style=social)](https://twitter.com/budioktaviyans) -->
 
 <br />
 
@@ -21,8 +21,8 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=budioktaviyan&layout=compact&theme=dracula&&hide_border=true" alt="budioktaviyan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzapple&layout=compact&theme=dracula&&hide_border=true" alt="danzapple" /></p>
 
 <br/><br/><br/><br/><br/><br/><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=budioktaviyan&show_icons=true&theme=dracula&&hide_border=true" alt="budioktaviyan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=danzapple&show_icons=true&theme=dracula&&hide_border=true" alt="danzapple" /></p>
