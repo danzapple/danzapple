@@ -1,34 +1,28 @@
-## Hello, I'm Danial Bachtiar  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<h1 align="center">Howdy 👋🏻, I'm Danial Bachtiar Kurniawan</h1>
+<h3 align="center">The only way to do a great work, is to love what you do</h3>
 
-## 📬 Find me at:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danzapple" alt="danzapple" /> </p>
 
-[![YouTube](https://img.shields.io/badge/YouTube-Frave_Developer-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCWnNdUXkRCF4t5gVW8uoqzA/featured)
-[![Instagram](https://img.shields.io/badge/Instagram-@FraveDev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/danzf_/)
-<!-- [![Gmail](https://img.shields.io/badge/Gmail-Frave.developer@gmail.com-ff0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://cutt.ly/pckBg9D)
- -->
-## ⚡ Skills:
-[![Flutter](https://img.shields.io/badge/Flutter-4a5fff?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
-</br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-<!-- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]() -->
-<!-- [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]() -->
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
-[![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)]()
-<!-- [![Vue.Js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)]() -->
-</br>
-<!-- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]() -->
+<h4 align="left">🤷🏻‍♂️ Ask me anything about android, iOS and any mobile cross-platform frameworks</h4>
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+<p align="left">
+<h3 align="left">Connect with me</h3>
+<a href="https://linkedin.com/in/budioktaviyans" target="blank"><img align="center" src="https://user-images.githubusercontent.com/2031493/109814543-36eb6300-7c61-11eb-8b2e-a510701309e7.png" alt="budioktaviyans" height="50" width="50" /></a>
+<a href="https://instagram.com/budioktaviyans" target="blank"><img align="center" src="https://user-images.githubusercontent.com/2031493/109813457-f5a68380-7c5f-11eb-93e7-5ba13de0695e.png" alt="budioktaviyans" height="50" width="50" /></a>
+<a href="https://medium.com/@budioktaviyans" target="blank"><img align="center" src="https://user-images.githubusercontent.com/2031493/109813479-f9d2a100-7c5f-11eb-84bb-ea3a739ebc96.png" alt="@budioktaviyans" height="50" width="50" /></a>
+</p>
 
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+##### Follow me on 👉🏻 [![Twitter](https://img.shields.io/twitter/follow/budioktaviyans?label=Follow&style=social)](https://twitter.com/budioktaviyans)
 
-<!-- [![MicrosoftSQL](https://img.shields.io/badge/Microsoft%20SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=101010)]() -->
-</br>
+<br />
 
-[![Git](https://img.shields.io/badge/Git-ff6340?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+<h3 align="left">Languages</h3>
+<p align="left"> <a href="https://kotlinlang.org" target="_blank"> <img src="https://user-images.githubusercontent.com/2031493/109813042-626d4e00-7c5f-11eb-9d1e-35d6669ffe0d.png" alt="kotlin" height="50" width="50" /> </a> <a href="https://swift.org" target="_blank"> <img src="https://user-images.githubusercontent.com/2031493/109811200-16b9a500-7c5d-11eb-9a8f-c4019e87dac3.png" alt="swift" height="50" width="50" /> </a> <a href="https://dart.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/2031493/109811270-2d5ffc00-7c5d-11eb-9704-bcf8b5e504cb.png" alt="dart" height="50" width="50" /> </a> </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+<br/>
 
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&labelColor=101010)]()
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=budioktaviyan&layout=compact&theme=dracula&&hide_border=true" alt="budioktaviyan" /></p>
 
+<br/><br/><br/><br/><br/><br/><br/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=budioktaviyan&show_icons=true&theme=dracula&&hide_border=true" alt="budioktaviyan" /></p>
