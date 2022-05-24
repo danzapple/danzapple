@@ -1,4 +1,4 @@
-<h1 align="center">Howdy 👋🏻, I'm Danial Bachtiar Kurniawan</h1>
+<h1 align="center">Hai 👋🏻, I'm Danial Bachtiar Kurniawan</h1>
 <h3 align="center">The only way to do a great work, is to love what you do</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danzapple" alt="danzapple" /> </p>
