@@ -8,7 +8,7 @@
 <p align="left">
 <h3 align="left">Connect with me</h3>
 <a href="https://linkedin.com/in/danial-bachtiar-2b347a18a" target="blank"><img align="center" src="https://user-images.githubusercontent.com/2031493/109814543-36eb6300-7c61-11eb-8b2e-a510701309e7.png" alt="danial-bachtiar-2b347a18a" height="50" width="50" /></a>
-<a href="https://instagram.com/drstore_ofc" target="blank"><img align="center" src="https://user-images.githubusercontent.com/2031493/109813457-f5a68380-7c5f-11eb-93e7-5ba13de0695e.png" alt="drstore_ofc" height="50" width="50" /></a>
+<a href="https://instagram.com/danzf_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/2031493/109813457-f5a68380-7c5f-11eb-93e7-5ba13de0695e.png" alt="danzf_" height="50" width="50" /></a>
 
 </p>
 
