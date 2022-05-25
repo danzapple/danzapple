@@ -20,7 +20,7 @@
 <p align="left"> <a href="https://kotlinlang.org" target="_blank"> <img src="https://user-images.githubusercontent.com/2031493/109813042-626d4e00-7c5f-11eb-9d1e-35d6669ffe0d.png" alt="kotlin" height="50" width="50" /> </a> <a href="https://swift.org" target="_blank"> <img src="https://user-images.githubusercontent.com/2031493/109811200-16b9a500-7c5d-11eb-9a8f-c4019e87dac3.png" alt="swift" height="50" width="50" /> </a> <a href="https://dart.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/2031493/109811270-2d5ffc00-7c5d-11eb-9704-bcf8b5e504cb.png" alt="dart" height="50" width="50" /> </a> </p>
 
 <br/>
-### Roles :
+### Roles :<br />
 - Mobile Developer at <a href="https://play.google.com/store/apps/details?id=com.bwx.majesticbanyuwangi" target="_blank"> BanyuwangiTourism </a><br />
 - Mobile Developer at <a href="https://play.google.com/store/apps/details?id=com.bwx.wisataramah" target="_blank"> OsingAble </a><br />
 - Mobile Developer at <a href="https://play.google.com/store/apps/details?id=com.bwi.sijamuwangi" target="_blank"> Sijamuwangi </a><br />
