@@ -20,6 +20,16 @@
 <p align="left"> <a href="https://kotlinlang.org" target="_blank"> <img src="https://user-images.githubusercontent.com/2031493/109813042-626d4e00-7c5f-11eb-9d1e-35d6669ffe0d.png" alt="kotlin" height="50" width="50" /> </a> <a href="https://swift.org" target="_blank"> <img src="https://user-images.githubusercontent.com/2031493/109811200-16b9a500-7c5d-11eb-9a8f-c4019e87dac3.png" alt="swift" height="50" width="50" /> </a> <a href="https://dart.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/2031493/109811270-2d5ffc00-7c5d-11eb-9704-bcf8b5e504cb.png" alt="dart" height="50" width="50" /> </a> </p>
 
 <br/>
+### Roles :
+- Mobile Developer at <a href="https://play.google.com/store/apps/details?id=com.bwx.majesticbanyuwangi" target="_blank"> BanyuwangiTourism </a>
+- Mobile Developer at <a href="https://play.google.com/store/apps/details?id=com.bwx.wisataramah" target="_blank"> OsingAble </a>
+- Mobile Developer at <a href="https://play.google.com/store/apps/details?id=com.bwi.sijamuwangi" target="_blank"> Sijamuwangi </a>
+- Mobile Developer at <a href="http://journal.stikesdrsoebandi.ac.id/index.php/jkds/article/view/327/176" target="_blank">H5J(Hypnotic 5 Fingers)</a>
+- Mobile Developer Freelance
+
+
+### Support Me :
+<a href="https://www.buymeacoffee.com/danz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzapple&layout=compact&theme=dracula&&hide_border=true" alt="danzapple" /></p>
 
