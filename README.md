@@ -21,16 +21,16 @@
 
 <br/>
 ### Roles :
-- Mobile Developer at <a href="https://play.google.com/store/apps/details?id=com.bwx.majesticbanyuwangi" target="_blank"> BanyuwangiTourism </a>
-- Mobile Developer at <a href="https://play.google.com/store/apps/details?id=com.bwx.wisataramah" target="_blank"> OsingAble </a>
-- Mobile Developer at <a href="https://play.google.com/store/apps/details?id=com.bwi.sijamuwangi" target="_blank"> Sijamuwangi </a>
-- Mobile Developer at <a href="http://journal.stikesdrsoebandi.ac.id/index.php/jkds/article/view/327/176" target="_blank">H5J(Hypnotic 5 Fingers)</a>
-- Mobile Developer Freelance
+- Mobile Developer at <a href="https://play.google.com/store/apps/details?id=com.bwx.majesticbanyuwangi" target="_blank"> BanyuwangiTourism </a><br />
+- Mobile Developer at <a href="https://play.google.com/store/apps/details?id=com.bwx.wisataramah" target="_blank"> OsingAble </a><br />
+- Mobile Developer at <a href="https://play.google.com/store/apps/details?id=com.bwi.sijamuwangi" target="_blank"> Sijamuwangi </a><br />
+- Mobile Developer at <a href="http://journal.stikesdrsoebandi.ac.id/index.php/jkds/article/view/327/176" target="_blank">H5J(Hypnotic 5 Fingers)</a><br />
+- Mobile Developer Freelance<br />
 
 
 ### Support Me :
 <a href="https://www.buymeacoffee.com/danz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
+<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzapple&layout=compact&theme=dracula&&hide_border=true" alt="danzapple" /></p>
 
 <br/><br/><br/><br/><br/><br/><br/>
