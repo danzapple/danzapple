@@ -31,8 +31,8 @@
 ### Support Me :
 <a href="https://www.buymeacoffee.com/danz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzapple&layout=compact&theme=dracula&&hide_border=true" alt="danzapple" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzf&layout=compact&theme=dracula&&hide_border=true" alt="danzf" /></p>
 
 <br/><br/><br/><br/><br/><br/><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=danzapple&show_icons=true&theme=dracula&&hide_border=true" alt="danzapple" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=danzf&show_icons=true&theme=dracula&&hide_border=true" alt="danzf" /></p>
