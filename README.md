@@ -15,13 +15,14 @@
 <!-- ##### Follow me on 👉🏻 [![Twitter](https://img.shields.io/twitter/follow/budioktaviyans?label=Follow&style=social)](https://twitter.com/budioktaviyans) -->
 
 <br />
-
-<h3 align="left">Languages</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p
+<--!<h3 align="left">Languages</h3>
 <p align="left"> <a href="https://kotlinlang.org" target="_blank"> <img src="https://user-images.githubusercontent.com/2031493/109813042-626d4e00-7c5f-11eb-9d1e-35d6669ffe0d.png" alt="kotlin" height="50" width="50" /> </a>
 <!--<a href="https://swift.org" target="_blank"> 
 <img src="https://user-images.githubusercontent.com/2031493/109811200-16b9a500-7c5d-11eb-9a8f-c4019e87dac3.png" alt="swift" height="50" width="50" /> 
 -->
-</a> <a href="https://dart.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/2031493/109811270-2d5ffc00-7c5d-11eb-9704-bcf8b5e504cb.png" alt="dart" height="50" width="50" /> </a> </p>
+</a> <a href="https://dart.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/2031493/109811270-2d5ffc00-7c5d-11eb-9704-bcf8b5e504cb.png" alt="dart" height="50" width="50" /> </a> </p>-->
 
 <br/>
   MyProject :<br />
